@@ -1,0 +1,47 @@
+.veridian-digital-credit {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 10px 16px !important;
+  clear: both !important;
+  position: relative !important;
+  z-index: 999 !important;
+}
+
+.veridian-digital-credit a {
+  display: inline-block !important;
+  width: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+
+  font-family: inherit !important;
+  font-size: 11px !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.02em !important;
+
+  color: inherit !important;
+  text-decoration: none !important;
+
+  opacity: 0.65 !important;
+  transition: opacity 0.25s ease !important;
+}
+
+.veridian-digital-credit a:hover,
+.veridian-digital-credit a:focus-visible {
+  opacity: 1 !important;
+}
+
+@media (max-width: 480px) {
+  .veridian-digital-credit {
+    padding: 9px 12px !important;
+  }
+
+  .veridian-digital-credit a {
+    font-size: 10px !important;
+  }
+}

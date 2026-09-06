@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 820">
+      <defs>
+        <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#EEE6DD"/><stop offset="1" stop-color="#D6C2B8"/></linearGradient>
+        <filter id="blur"><feGaussianBlur stdDeviation="35"/></filter>
+      </defs>
+      <rect width="1040" height="820" fill="url(#g)"/>
+      <circle cx="190" cy="140" r="180" fill="#8C5C61" opacity=".09" filter="url(#blur)"/>
+      <circle cx="850" cy="690" r="220" fill="#fff" opacity=".22" filter="url(#blur)"/>
+      
+        <g opacity=".96">
+          <path d="M355 610 Q520 760 685 610 L645 710 Q520 790 395 710Z" fill="#C4A58E"/>
+          <path d="M400 625 Q520 735 640 625" fill="none" stroke="#E8D7C7" stroke-width="10"/>
+          <g fill="#B6787D">
+            <circle cx="400" cy="535" r="70"/><circle cx="505" cy="470" r="78"/><circle cx="615" cy="520" r="72"/>
+          </g>
+          <g fill="#E0B2AB">
+            <circle cx="400" cy="535" r="35"/><circle cx="505" cy="470" r="40"/><circle cx="615" cy="520" r="36"/>
+          </g>
+          <g fill="#F3D7C7">
+            <circle cx="455" cy="575" r="40"/><circle cx="560" cy="565" r="45"/><circle cx="530" cy="400" r="30"/>
+          </g>
+          <g fill="none" stroke="#7D8A6D" stroke-width="8">
+            <path d="M400 620 L400 545"/><path d="M505 620 L505 480"/><path d="M615 620 L615 530"/>
+          </g>
+        </g>
+      <text x="72" y="90" font-family="Georgia, serif" font-size="20" letter-spacing="5" fill="#5A4745">MAISON DE LUXE</text>
+      <text x="72" y="755" font-family="Arial, sans-serif" font-size="13" letter-spacing="3" fill="#6E5C58">SWEETLY ARRANGED</text>
+      <text x="72" y="782" font-family="Georgia, serif" font-size="18" fill="#6E5C58">Buttercream florals</text>
+    </svg>

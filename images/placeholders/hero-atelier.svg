@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 820">
+      <defs>
+        <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#EEE6DD"/><stop offset="1" stop-color="#D6C2B8"/></linearGradient>
+        <filter id="blur"><feGaussianBlur stdDeviation="35"/></filter>
+      </defs>
+      <rect width="1040" height="820" fill="url(#g)"/>
+      <circle cx="190" cy="140" r="180" fill="#8C5C61" opacity=".09" filter="url(#blur)"/>
+      <circle cx="850" cy="690" r="220" fill="#fff" opacity=".22" filter="url(#blur)"/>
+      
+        <g opacity=".94">
+          <ellipse cx="520" cy="700" rx="250" ry="40" fill="#8B6D61" opacity=".18"/>
+          <path d="M515 690 C515 575 520 460 500 350" stroke="#6F7863" stroke-width="11" fill="none"/>
+          <path d="M520 690 C550 580 610 500 680 425" stroke="#738063" stroke-width="9" fill="none"/>
+          <path d="M515 690 C465 580 390 500 335 430" stroke="#6B755F" stroke-width="9" fill="none"/>
+          <g fill="#B97C82">
+            <circle cx="500" cy="330" r="72"/><circle cx="675" cy="410" r="65"/><circle cx="325" cy="415" r="62"/>
+          </g>
+          <g fill="#E0B1AA">
+            <circle cx="500" cy="330" r="36"/><circle cx="675" cy="410" r="30"/><circle cx="325" cy="415" r="28"/>
+          </g>
+          <g fill="#C9A77E">
+            <circle cx="405" cy="345" r="34"/><circle cx="600" cy="325" r="30"/><circle cx="440" cy="475" r="31"/>
+          </g>
+          <path d="M420 535 C380 500 350 520 335 555 C380 560 405 560 420 535Z" fill="#8A9A79"/>
+          <path d="M590 520 C635 485 660 505 675 540 C635 550 610 548 590 520Z" fill="#819174"/>
+        </g>
+      <text x="72" y="90" font-family="Georgia, serif" font-size="20" letter-spacing="5" fill="#5A4745">MAISON DE LUXE</text>
+      <text x="72" y="755" font-family="Arial, sans-serif" font-size="13" letter-spacing="3" fill="#6E5C58">THE ART OF THE OCCASION</text>
+      <text x="72" y="782" font-family="Georgia, serif" font-size="18" fill="#6E5C58">Bespoke floral composition</text>
+    </svg>

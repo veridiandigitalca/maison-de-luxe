@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# EDIT: Add production sitemap URL before launch.
